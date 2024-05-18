@@ -1,7 +1,5 @@
-# COMP5347 - A2
-
 Cartoonpia
-Git:https://github.sydney.edu.au/COMP5347-COMP4347-2024/Lab-7-Group6-A2.git
+https://github.com/ziziye/Character-Comparison-Website
 ## Getting Frontend Started
 
 - pull the code
